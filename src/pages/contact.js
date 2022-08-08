@@ -29,7 +29,7 @@ const contact = () => {
               </div>
               
               <div className='form-row'>
-                <label htmlFor='message'></label>
+                <label htmlFor='message'>message</label>
                 <textarea name='message' id='message'></textarea>
               </div>
 
